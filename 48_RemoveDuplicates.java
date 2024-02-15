@@ -15,7 +15,7 @@ public class RemoveDuplicatesFromSortedSinglyLinkedList{
     }
     public static void removeDuplicates(N head){
         N curr=head;
-        while(curr!=null ){
+        while(curr!=null && curr.next!=null){
             if(curr.data==curr.next.data){
                 curr.next=curr.next.next;
             }
