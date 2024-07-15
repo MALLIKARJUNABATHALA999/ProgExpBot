@@ -1,3 +1,5 @@
+package src;
+
 class Solution {
     private static final int mod=1000000007;
     public int countGoodNumbers(long n) {

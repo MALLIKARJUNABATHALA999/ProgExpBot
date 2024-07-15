@@ -1,3 +1,5 @@
+package src;
+
 class Solution {
     List<String> result=new ArrayList<String>();
     public List<String> generateParenthesis(int n) {
