@@ -1,3 +1,5 @@
+package src;
+
 public class FrequencyOfelements {
     public static void main(String args[]){
         int arr[]={10,20,30,10,30,20,40,50};
