@@ -1,0 +1,3 @@
+ When the Standard deviation is lower, the variation is lower. When variation is lower, the predictability of the future from the current data set is higher. When variation is higher, the predictability is lower.
+
+Accuracy refers to the closeness of the value (being measured) to the object’s actual measurement. At the same time, precision is the consistency of multiple measurements of the same object, irrelevant to the object’s actual measurement.
